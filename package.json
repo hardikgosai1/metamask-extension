@@ -301,7 +301,7 @@
     "@metamask/kernel-ui": "^0.1.0",
     "@metamask/kernel-utils": "^0.1.0",
     "@metamask/keyring-api": "^19.1.0",
-    "@metamask/keyring-controller": "^22.1.0",
+    "@metamask/keyring-controller": "^23.0.0",
     "@metamask/keyring-internal-api": "^7.1.0",
     "@metamask/keyring-internal-snap-client": "^5.0.0",
     "@metamask/keyring-snap-client": "^6.0.0",
